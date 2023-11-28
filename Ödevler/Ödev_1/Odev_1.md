@@ -21,3 +21,8 @@ SELECT last_name FROM customer Where first_name = 'Mary'
 SELECT * FROM film WHERE length <= 50 AND (rental_rate <> 2.99 OR rental_rate <> 4.99 )
 ```
 ---
+
+
+## Patika.dev profilime gitmek için [tıklayınız](https://academy.patika.dev/tr/@mahsuniglr).
+## Linkedin profilime gitmek için [tıklayınız](https://linkedin.com/in/mustafamahsuni).
+## Github profilime gitmek için [tıklayınız](https://github.com/mahsuniguler).
